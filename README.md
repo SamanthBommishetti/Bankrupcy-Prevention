@@ -1,5 +1,5 @@
 # Bankrupcy-Prevention
-##bankrupted-prediction-project
+## bankrupted-prediction-project
 This repository contains materials related to predicting bankruptcy using machine learning techniques. The main focus is on analyzing data from bankruptcy-prevention.csv to build a model capable of identifying companies at risk of bankruptcy.
 ## Project Overview
 The goal of this project is to create a machine learning model that can accurately predict whether a company will go bankrupt based on various factors such as industrial risk, management risk, financial flexibility, etc., extracted from the provided dataset.
